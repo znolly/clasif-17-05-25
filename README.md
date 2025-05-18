@@ -5,3 +5,4 @@ Repositorio con enunciados de los problemas y soluciones de la competencia clasi
 - **Plataforma:** Vjudge
 - **Contest:** [https://vjudge.net/contest/717750#rank](https://vjudge.net/contest/717750#rank)
 
+![Post - Convocatoria](post.jpg)
