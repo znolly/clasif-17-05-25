@@ -6,3 +6,6 @@ Repositorio con enunciados de los problemas y soluciones de la competencia clasi
 - **Contest:** [https://vjudge.net/contest/717750#rank](https://vjudge.net/contest/717750#rank)
 
 ![Post - Convocatoria](post.jpg)
+
+Clasificación oficial:
+![Clasificacion - oficial](image.png)
